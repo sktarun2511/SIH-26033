@@ -51,6 +51,11 @@ Technologies:
   - SMS/notification services.
   - Data analytics for demand, pricing and stock management.
 
+## FlowChart
+
+<img width="888" height="837" alt="image" src="https://github.com/user-attachments/assets/72a0234f-853b-473b-b668-02a9b6458efc" />
+
+
 ## Feasibility and Viability
 Feasibility:
   - Utilizes existing government agricultural infrastructure where available.
