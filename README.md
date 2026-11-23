@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Reference Number:
-## Name:
+# Date: 23-11-2026
+## Reference Number: 26015012
+## Name: Tarun K
 
 ## Problem Title
 SIH 26033: Multiple intermediaries reduce farmers earnings and increase consumer prices.
@@ -26,27 +26,77 @@ Benefits:
 • Reduced supply chain inefficiencies.
 
 ## Proposed Solution
-Remove These Lines
-1. Detailed explanation of the proposed solution
-2. How it addresses the problem
-3. Innovation and uniqueness of the solution
+Government Farmer–Consumer Network (GFCN):
+A government-operated direct marketing system connecting farmers and consumers through regional farmer–consumer depots.
+  - Eliminates unnecessary intermediaries.
+  - Government vehicles collect produce directly from farmers.
+  - Farmers receive printed transaction statements at their homes.
+  - Consumers purchase fresh produce at affordable prices.
+  - Supports walk-in, online, phone and bulk orders.
+  - Ensures fair farmer pricing and immediate payments.
+
+Innovation and Uniqueness:
+  - Technology-independent participation for farmers.
+  - Government-managed collection, transportation and distribution.
+  - Transparent pricing based on production costs, market demand and climatic conditions.
+  - Minimum guaranteed procurement price.
+  - Regional depots connecting farming clusters with urban consumers.
 
 ## Technical Approach
-Remove These Lines
-1. Technologies to be used (e.g. programming languages, frameworks, hardware)
-2. Methodology and process for implementation <b>(Flow Charts/Images/ working prototype)</b>
+Technologies:
+  - Web platform for consumers and administrators.
+  - Database for procurement, inventory, pricing and transactions.
+  - Digital weighing and billing systems.
+  - SMS/notification services.
+  - Data analytics for demand, pricing and stock management.
 
 ## Feasibility and Viability
-Remove These Lines
-1. Analysis of the feasibility of the idea
-2. Potential challenges and risks
-3. Strategies for overcoming these challenges
+Feasibility:
+  - Utilizes existing government agricultural infrastructure where available.
+  - Can be implemented through district-level pilot depots.
+  - Requires no technical knowledge from farmers.
+  - Can expand gradually based on performance.
+
+Challenges and Mitigation:
+
+Challenge                           Mitigation
+
+High operational costs	            Phased implementation
+Produce wastage	Cold                storage and processing
+Corruption	                        Audits and transparent records
+Excess inventory	                  Demand and stock monitoring
+Farmer resistance	                  Awareness campaigns and guaranteed pricing
+Depot congestion	                  Multiple regional depots
+Price fluctuations	                Cost-based pricing and market analysis
 
 ## Impact and Benefits
-Remove These Lines
-1. Potential impact on the target audience
-2. Benefits of the solution (social, economic, environmental, etc.)
+Farmers:
+  - Increased earnings.
+  - Reduced dependence on intermediaries.
+  - Guaranteed minimum procurement price.
+  - Immediate and transparent payments.
+  - Accessible participation without technology.
+
+Consumers:
+  - Affordable fresh produce.
+  - Reduced intermediary-driven price increases.
+  - Better access to local agricultural products.
+
+Social and Economic Benefits:
+  - Strengthens rural livelihoods.
+  - Improves market accessibility.
+  - Creates local employment.
+  - Supports small and marginal farmers.
+
+Environmental Benefits:
+  - Reduced food wastage.
+  - Improved local distribution.
+  - Efficient transportation and storage.
+  - Better utilization of surplus produce.
 
 ## Research and References
-Remove These Lines
-1. Details / Links of the reference and research work
+- Ministry of Agriculture and Farmers Welfare, Government of India.
+- e-NAM (National Agriculture Market).
+- Agricultural Marketing and Infrastructure schemes.
+- Food Corporation of India (FCI).
+- NABARD agricultural marketing and rural infrastructure resources.
