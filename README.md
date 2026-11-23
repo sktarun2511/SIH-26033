@@ -27,6 +27,7 @@ Benefits:
 
 ## Proposed Solution
 Government Farmer–Consumer Network (GFCN):
+
 A government-operated direct marketing system connecting farmers and consumers through regional farmer–consumer depots.
   - Eliminates unnecessary intermediaries.
   - Government vehicles collect produce directly from farmers.
